@@ -1,0 +1,29 @@
+Hierbij een korte en eenvoudige uitleg hoe github precies werkt.
+
+Elke medewerker heeft zijn eigen repositorie (map) en elke medewerker kan alleen zijn repositorie zien en bestanden wijzigen/toevoegen.
+
+Uploaden:
+Als je een bestand wilt uploaden dan kan je dat doen door upload files te klikken, elke bestand kan worden geupload. (pdf, txt, exe etc.)
+Upload alleen een bestand in de map waar je het wilt uploaden en niet in hoofddirectory van je repositorie.
+
+Mappen aan maken:
+Je kan een map aanmaken in een map of in de hoofddirectory van je repositorie.
+*Als je in de hoofddirectory zit of in de map.
+*Klik op Create new file.
+*In de naam box boven in, vul je de naam van de map in.
+*Gebruik /- na de naam van je folder, de slash maakt de folder aan. Voorbeeld: (Naammedewerker/Zorgmappen/-
+*De /- zorgt ervoor dat een map word aangemaakt met een bestand erin je kan geen map aanmakken zonder een bestand erin te zetten.
+*De - hoef niet worden gebruikt als er een bestand word geupload of je maak zelf bestand aan. Voorbeeld: txt bestand of een pdf bestand.
+
+Map of bestand verwijderen:
+Om een map te verwijderen moet alle bestanden uit de map verwijderd worden.
+*Je gaat naar de hoofddirectory van je repositorie.
+*Klik op Find file.
+*hierbij zie je alle bestanden wat je heb geupload en klick op het bestand dat moet worden verwijderd.
+*Rechts zie je een prullenbak icoon en daar click je op en dan is het bestand verwijderd.
+
+Problemen:
+Als er een probleem is of je wilt een wijziging maken dat je zelf niet kan doen of geen machtiging voor heb.
+Dan kan dat worden doorgegeven aan idris op kantoor.
+Je kan het ook aan mij doorgeven door op je hoofddirectory te klikken en dan op issue klikken, dat staat boven in naast het woord code, pull request etc.
+Daarin beschrijf je het probleem. Alles wat je daarin zet kan ik met jou terug corresponderen.
